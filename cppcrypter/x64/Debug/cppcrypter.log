@@ -1,0 +1,3 @@
+﻿  Source.cpp
+G:\disco\unv\udo\Seguridad de sistemas computarisados\encriptador\cppcrypter\cppcrypter\Source.cpp(76,9): warning C4101: 'bitdef': variable local sin referencia
+  cppcrypter.vcxproj -> G:\disco\unv\udo\Seguridad de sistemas computarisados\encriptador\cppcrypter\x64\Debug\cppcrypter.exe
